@@ -7,7 +7,7 @@
 ### 🦾 About Me
 
 - 🚀 Senior Staff Engineer on the Architecture Team at **Stryker Robotics**
-- 👨‍💻 Building software for the **Mako Surgical Robot**—advancing orthopedic surgeries for knee, hip, and shoulder
+- 👨‍💻 Building software for the **Stryker Surgical Robot**—advancing orthopedic surgeries for knee, hip, and shoulder
 - 🎯 Currently focused on **3D visualization** for surgical robotics
 - 🏗️ Passionate about high-performance graphics, cross-platform development, and modern rendering techniques
 
@@ -55,5 +55,3 @@ When I'm not coding, you'll find me playing cricket on the weekends!
 
 _“Pushing the boundaries of what robots and humans can visualize, together.”_
 ````
-
-You can add this file to your repository as `README.md`. Let me know if you need help uploading it or if you want any further changes!
