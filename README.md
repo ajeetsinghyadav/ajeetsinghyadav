@@ -1,6 +1,3 @@
-It seems the repository does not currently have a README. Here's the updated README file you can include in your repository:
-
-````markdown name=README.md
 # 👋 Hi, I'm Ajeet Singh Yadav
 
 **Senior Staff Engineer at Stryker | Robotics & 3D Visualization Enthusiast**
