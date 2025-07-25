@@ -35,3 +35,6 @@ _Cross-platform, high-performance graphics API (Private project)_
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeetsinghyadav/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292F?logo=githubpages&logoColor=white)](https://ajeetsinghyadav.github.io/)
 
+---
+
+_Simple ideas. Powerful visuals. Real impact._
