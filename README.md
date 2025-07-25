@@ -1,57 +1,41 @@
 # 👋 Hi, I'm Ajeet Singh Yadav
 
-**Senior Staff Engineer at Stryker | Robotics & 3D Visualization Enthusiast**
+**Staff Engineer @ Stryker Robotics**  
+Robotics | 3D Graphics | Visualization
 
 ---
 
-### 🦾 About Me
+### ⚡ About
 
-- 🚀 Senior Staff Engineer on the Architecture Team at **Stryker Robotics**
-- 👨‍💻 Building software for the **Stryker Surgical Robot**—advancing orthopedic surgeries for knee, hip, and shoulder
-- 🎯 Currently focused on **3D visualization** for surgical robotics
-- 🏗️ Passionate about high-performance graphics, cross-platform development, and modern rendering techniques
-
----
-
-### 💡 Tech Stack
-
-- **Languages:** C++, C (API), Python, Objective-C  
-- **Past Experience:** Tcl/Tk  
-- **Graphics:** OpenGL, OpenGL ES, Vulkan, Metal  
-- **Platforms:** Desktop (core focus), with demos for Web and iOS  
-- **Tools:** Qt, CMake, Git, Perforce, CI/CD
+- 🚀 Building 3D visualization for surgical robots @ Stryker
+- 🌟 Creator of **VertexNova**: a modern, cross-platform graphics API _(Private Project)_
+- 💻 C++, Python, OpenGL, Vulkan, Metal, Qt
 
 ---
 
-### 🛠️ Featured Project: [VertexNova](https://github.com/ajeetsinghyadav/vertexnova)
+### ✨ Project Spotlight
 
-> A personal initiative to create a **cross-platform, multi-backend graphics API**—supporting modern rendering on desktop, with demos for web and iOS.  
-> Designed for flexibility and high performance, VertexNova aims to bridge the gap between graphics APIs and empower developers to build next-gen visualization tools.  
-> Features a C API and utilizes Objective-C for iOS support.
+**VertexNova**  
+_Cross-platform, high-performance graphics API (Private project)_
 
----
-
-### 🌱 What I'm Working On
-
-- Extending 3D rendering libraries (with demos) to web and iOS  
-- Exploring advanced visualization for robotics and surgery  
-- Experimenting with real-time graphics, simulation, and AR/VR  
-- Working on **VertexNova** during weekends and free time
+[![GitHub](https://img.shields.io/badge/GitHub-ajeetsinghyadav%2Fvertexnova-181717?logo=github)](https://github.com/ajeetsinghyadav/vertexnova)
+[![Private Repo](https://img.shields.io/badge/VertexNova-Private-lightgrey?logo=lock)](https://github.com/ajeetsinghyadav/vertexnova)
 
 ---
 
-### 🏏 Fun Fact
+### 📊 GitHub Stats & Activity
 
-When I'm not coding, you'll find me playing cricket on the weekends!
-
----
-
-### 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/ajeetsinghyadav/)  
-- [Portfolio](https://ajeetsinghyadav.github.io/)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajeetsinghyadav&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajeetsinghyadav&theme=tokyonight" height="165">
+</p>
 
 ---
 
-_“Pushing the boundaries of what robots and humans can visualize, together.”_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeetsinghyadav/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?logo=githubpages&logoColor=white)](https://ajeetsinghyadav.github.io/)
+
+---
+
+_Simple ideas. Powerful visuals. Real impact._
 ````
