@@ -23,15 +23,6 @@ _Cross-platform, high-performance graphics API (Private project)_
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajeetsinghyadav&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajeetsinghyadav&theme=tokyonight" height="165">
-</p>
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeetsinghyadav/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292F?logo=githubpages&logoColor=white)](https://ajeetsinghyadav.github.io/)
 
