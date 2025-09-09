@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajeet Singh Yadav
 
-**Senior Staff Engineer @ Stryker Robotics**  
+**Principle Engineer @ Stryker Robotics**  
 Robotics | 3D Graphics | Visualization
 
 ---
