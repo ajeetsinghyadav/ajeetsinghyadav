@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajeet Singh Yadav
 
-**Principle Engineer @ Stryker Robotics**  
+**Principal Engineer @ Stryker Robotics**  
 Robotics | 3D Graphics | Visualization
 
 ---
