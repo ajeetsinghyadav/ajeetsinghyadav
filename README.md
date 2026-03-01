@@ -18,7 +18,7 @@ Robotics | 3D Graphics | Visualization
 **VertexNova**  
 _Cross-platform, high-performance graphics API (Private project)_
 
-[![GitHub](https://img.shields.io/badge/GitHub-ajeetsinghyadav%2Fvertexnova-181717?logo=github)](https://github.com/ajeetsinghyadav/vertexnova)
+[![GitHub](https://img.shields.io/badge/GitHub-ajeetsinghyadav%2Fvertexnova-181717?logo=github)](https://github.com/vertexnova)
 [![Private Repo](https://img.shields.io/badge/VertexNova-Private-lightgrey?logo=lock)](https://github.com/ajeetsinghyadav/vertexnova)
 
 ---
